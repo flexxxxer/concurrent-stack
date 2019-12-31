@@ -1,4 +1,4 @@
-# concurrent-stack implementation
+# dynamic concurrent-stack implementation
 
 This implementation was based on `std::atomic<T>`
 
@@ -8,4 +8,4 @@ For use available:
 - get top value from stack using: `auto value = concurrent_stack.top()` 
 - stack empty information: `auto value = concurrent_stack.is_empty()` 
 
-This repo is part of this project.
+This repo is part of [this project](https://github.com/users/FlexxxerAlex/projects/1).
